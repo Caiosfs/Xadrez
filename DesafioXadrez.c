@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//utilizado um void por peça, pois o mesmo não retorna nada, apenas executa o que foi pedido.
 void MovTorre(int movimentoTO){
     if (movimentoTO > 0){
         printf("Direita.\n");
