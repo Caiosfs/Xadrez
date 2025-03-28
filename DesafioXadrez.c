@@ -23,9 +23,9 @@ int main(){
 
     int opcao; //variavel de escolha das peças.
     int cavalo = 1; //variavel para cavalo.
-    int torre = 5;
-    int bispo = 5;
-    int rainha = 8;
+    int torre = 5;//variavel para torre.
+    int bispo = 5;//variavel para bispo.
+    int rainha = 8;//variavel para rainha.
 
 
     printf("Teste Peça de Xadrez.\n");
